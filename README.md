@@ -1,14 +1,23 @@
 <div>
-  <h1 align="center">Oi, Tudo bem? Eu sou o <i>Maria Fernanda</i> :) </h1>
-  <p align="center">Estudo atualmente Desenvolvimento de Sistemas na ETEC Minas
+  <h1 align="center">✧ ʙᴇᴍ-ᴠɪɴᴅᴏ ᴀᴏ ᴍᴇᴜ ᴘᴇʀꜰɪʟ ✧ </h1>
+</div>
+<div align="center">
+<img src="https://media2.giphy.com/media/yrBwdH8CD7K5q/giphy.gif?cid=ecf05e47jwo5b2afp4nha8teb01orn4gg0t09la9rmffhoco&rid=giphy.gif&ct=g">
 </div>
 
-<div align="center">
-  <a href="https://github.com/MariaFernandaSSO">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MariaFernandaSSO&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaFernandaSSO&theme=omni&hide_border=false&&layout=compact"/>
-  </a>
+<div>
+  <div>
+<h2 align="center"> - - - ꜱᴏʙʀᴇ ᴍɪᴍ - - -</h2>
+ 
+<img src="https://media0.giphy.com/media/ayMW3eqvuP00o/giphy.gif?cid=ecf05e47jwo5b2afp4nha8teb01orn4gg0t09la9rmffhoco&rid=giphy.gif&ct=g" height="390" width="400" align="right">
+  <br>
+  <p>Olá, meu nome é Maria Fernanda, tenho 16 anos e atualmente estudo Desenvolvimento de Sistemas.  </p>
+  <p>Eu gosto de desenvolver soluções ou apenas alguns projetinhos pra me divertir mesmo.</p> 
+  <p>Além disto, eu prático desenho, edição de vídeo e imagem.</p>
 </div>
+
+<br>
+<h3 align="center"> - - -   ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏꜱ   - - -</h3>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +27,21 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div><br>
+<br>
+  </div>
+
 <hr>
+<h3 align="center"> - - - ꜱᴛᴀᴛᴜꜱ ɢɪᴛ- - -</h3>
+
+<div align="center">
+  <a href="https://github.com/MariaFernandaSSO">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MariaFernandaSSO&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaFernandaSSO&theme=omni&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+<hr>
+
 <div align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="mailto:mariafernandasso281@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -32,4 +55,6 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<p align="center">✧ 𝒪 𝓂ℯ𝓁𝒽ℴ𝓇 𝒹ℯ 𝓂𝒾𝓂, 𝒹ℯ𝒹𝒾𝒸ℴ 𝒶 𝓂𝒾𝓂 𝓂ℯ𝓈𝓂𝒶 ✧</p>
 
