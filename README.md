@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">✧ ʙᴇᴍ-ᴠɪɴᴅᴏ ᴀᴏ ᴍᴇᴜ ᴘᴇʀꜰɪʟ ✧ </h1>
+  <h1 align="center">✧ 𝐁𝐞𝐦 𝐯𝐢𝐧𝐝𝐨 𝐚𝐨 𝐦𝐞𝐮 𝐩𝐞𝐫𝐟𝐢𝐥 - 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞 ✧ </h1>
 </div>
 <div align="center">
 <img src="https://media2.giphy.com/media/yrBwdH8CD7K5q/giphy.gif?cid=ecf05e47jwo5b2afp4nha8teb01orn4gg0t09la9rmffhoco&rid=giphy.gif&ct=g">
@@ -7,17 +7,24 @@
 
 <div>
   <div>
-<h2 align="center"> - - - ꜱᴏʙʀᴇ ᴍɪᴍ - - -</h2>
+<h2 align="center"> - - - sobre mim / αbout me - - -</h2>
  
 <img src="https://media0.giphy.com/media/ayMW3eqvuP00o/giphy.gif?cid=ecf05e47jwo5b2afp4nha8teb01orn4gg0t09la9rmffhoco&rid=giphy.gif&ct=g" height="390" width="400" align="right">
   <br>
-  <p>Olá, meu nome é Maria Fernanda, tenho 16 anos e atualmente estudo Desenvolvimento de Sistemas.  </p>
-  <p>Eu gosto de desenvolver soluções ou apenas alguns projetinhos pra me divertir mesmo.</p> 
-  <p>Além disto, eu prático desenho, edição de vídeo e imagem.</p>
+    ᵖᵒʳᵗᵘᵍᵘᵉˢᵉ:
+  <p>Olα, meu nome é Mαriα Fernαndα, tenho 16 αnos e αtuαlmente estudo Desenvolvimento de Sistemαs em uma Escola Técnica..</p>
+  <p>Eu gosto de desenvolver soluções ou αpenαs αlguns projetinhos prα me divertir mesmo.</p> 
+  <p>αlém disto, eu prαtico desenho, ediçαo de vídeo e imαgem.</p>
 </div>
 
+   ᵉⁿᵍˡⁱˢʰ:
+  <p> Hi, my nαme is Mαriα Fernαndα, I'm 16 yeαrs αnd currently I study System Development in α Technicαl School </p>
+  <p> I like develop solution or just some little projects for just fun :D </p>
+  <p> besides this , i prαtice drαwing, edition of video αnd imαge </p>
+
+<hr>
 <br>
-<h3 align="center"> - - -   ᴄᴏɴʜᴇᴄɪᴍᴇɴᴛᴏꜱ   - - -</h3>
+<h3 align="center"> - - -   conhecimentos - knowledgeꜱ   - - -</h3>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,7 +37,7 @@
 </div><br>
 <br>
   </div>
-
+<br>
 <hr>
 <h3 align="center"> - - - ꜱᴛᴀᴛᴜꜱ ɢɪᴛ- - -</h3>
 
