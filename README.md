@@ -66,4 +66,5 @@
 </div>
 
 <p align="center">✧ 𝒪 𝓂ℯ𝓁𝒽ℴ𝓇 𝒹ℯ 𝓂𝒾𝓂, 𝒹ℯ𝒹𝒾𝒸ℴ 𝒶 𝓂𝒾𝓂 𝓂ℯ𝓈𝓂𝒶 ✧</p>
+<a href="https://www.freecounterstat.com" title="page counters"><img src="https://counter9.stat.ovh/private/freecounterstat.php?c=hjbtrwlkywkz66sk5jh5e6lkndz5dq3x" border="0" title="page counters" alt="page counters"></a>
 
