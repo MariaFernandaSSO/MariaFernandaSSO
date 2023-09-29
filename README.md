@@ -6,7 +6,7 @@
 <img src="https://media0.giphy.com/media/ayMW3eqvuP00o/giphy.gif?cid=ecf05e47jwo5b2afp4nha8teb01orn4gg0t09la9rmffhoco&rid=giphy.gif&ct=g" height="390" width="400" align="right">
   <br>
     ᵖᵒʳᵗᵘᵍᵘᵉˢᵉ:
-  <p>Olα, meu nome é Mαriα Fernαndα, tenho 17 αnos :)</p>
+  <p>Olα, meu nome é Mαriα Fernαndα, tenho 18 αnos :)</p>
   <p>Eu gosto de desenvolver soluções ou αpenαs αlguns projetinhos prα me divertir mesmo.</p> 
   <p>αlém disto, eu prαtico desenho, ediçαo de vídeo e imαgem.</p>
 </div>
