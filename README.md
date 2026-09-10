@@ -61,17 +61,6 @@
 
 <hr>
 
-<h3 align="center"> - - - git status - - -</h3>
-
-<div align="center">
-  <a href="https://github.com/MariaFernandaSSO">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MariaFernandaSSO&include_all_commits=true&show_icons=true&theme=rose_pine&hide_border=false"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaFernandaSSO&theme=rose_pine&hide_border=false&layout=compact"/>
-  </a>
-</div>
-
-<hr>
-
 <div align="center">
   <a href="mailto:mariafernanda.oliveira281@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
